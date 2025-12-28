@@ -2,7 +2,7 @@ import pygame
 
 pygame.init()
 
-# Константы
+
 WIDTH, HEIGHT = 1280, 720
 GRAVITY = 0.5
 PLAYER_SPEED = 5
