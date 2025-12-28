@@ -1,6 +1,5 @@
 import pygame
 
-# Инициализация Pygame
 pygame.init()
 
 # Константы
